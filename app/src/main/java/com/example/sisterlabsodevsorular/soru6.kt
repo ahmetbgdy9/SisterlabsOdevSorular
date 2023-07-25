@@ -1,7 +1,8 @@
 package com.example.sisterlabsodevsorular
 
 import java.util.Scanner
-
+// Kullanıcıdan bir ay ismi girmesini isteyen ve bu aya göre mevsim bilgisini ekrana
+// yazdıran bir programı nasıl yazarsınız?
 fun main() {
     val scanner = Scanner(System.`in`)
     println("Bir ay ismi girin: ")
