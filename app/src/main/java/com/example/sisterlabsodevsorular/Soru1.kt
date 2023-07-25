@@ -7,14 +7,12 @@ import kotlin.random.Random
 // nasıl oluşturursunuz?
 
 fun main() {
+
     var tahminAdet = 4
     var tahminSayac = 0
     val Scanner =  Scanner(System.`in`)
 
     println("Sayıyı tahmin etme hakkınız $tahminAdet")
-
-
-
 
     for (i in tahminSayac..tahminAdet) {
 
@@ -39,5 +37,4 @@ fun main() {
 
         }
     }
-
 }
